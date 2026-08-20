@@ -38,7 +38,7 @@ if __name__ == "__main__":
     for val in result:
         print(val, end=" ")
 
-# DFS Traversal
+# BFS Traversal
 
 class Node:
     def __init__(self,data):
